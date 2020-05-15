@@ -1,10 +1,21 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "T-Metrics": [
+        "introduction",
+        "gettingstarted",
+        "databasesetup",
+        "plcservicesetup",
+        "apiserversetup",
+        "webappsetup"
+    ],
+    "T-Alerts": [
+        "alerts-introduction"
+    ],
+    "T-Status": [
+        "status-introduction"
+    ],
+    "T-Reports": [
+        "reports-introduction"
+    ]
   }
 }
